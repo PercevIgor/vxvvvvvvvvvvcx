@@ -13,7 +13,7 @@
  1. Создать свой аккаунт
  2. Ввести команды:
  
- git remote add origin указываем путь
+ git remote add origin указываем путьgit remote add origin 
 
  git branch -M main
 
